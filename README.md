@@ -8,12 +8,11 @@
 
 ## About
 
-**uw love flow** is a web application designed to facilitate a unique speed dating experience using personality and preference matching.
+**uw love flow** is a web application designed to facilitate a unique networking experience using personality and preference matching.
 
 ## Features
 
 - User registration with personality and preference-based matching
-- Real-time gender distribution display
 - Admin panel for managing users and matches
 - Responsive design for mobile and desktop
 
