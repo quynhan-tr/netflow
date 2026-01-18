@@ -8,7 +8,7 @@
 
 ## About
 
-**uw love flow** is a web application designed to facilitate a unique networking experience using personality and preference matching.
+**netflow** is a web application designed to facilitate a unique networking experience using personality and preference matching.
 
 ## Features
 
